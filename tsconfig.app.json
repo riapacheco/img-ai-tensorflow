@@ -11,5 +11,9 @@
   ],
   "include": [
     "src/**/*.d.ts"
-  ]
+  ],
+  "types": [
+    "Long"
+  ],
+  "skipLibCheck": true
 }
